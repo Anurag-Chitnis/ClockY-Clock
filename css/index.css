@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Gravitas+One');
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+html,body{
+    overflow: hidden;
+}
+
+
+.root{
+    font-family: 'Gravitas One', cursive;
+    color: #fff;
+    font-size: 60px;
+    font-weight: 900;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

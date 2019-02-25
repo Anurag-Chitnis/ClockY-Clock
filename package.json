@@ -1,0 +1,11 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "This is a fun assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Chitnis",
+  "license": "ISC"
+}
